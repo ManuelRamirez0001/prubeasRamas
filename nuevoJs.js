@@ -1,1 +1,2 @@
-alert('hola ramas');
+alert("hola ramas");
+console.log("pruebas");
